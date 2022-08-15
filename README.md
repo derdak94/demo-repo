@@ -2,6 +2,6 @@
 
 Some Dectription Sniper jp
 
-## Dupa
+## Demo
 
-ale faza XD
+XD
