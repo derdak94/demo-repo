@@ -10,6 +10,6 @@ Some Dectription Sniper jp
 
 1.Open index.html in your browser 
 
-=======
 
-XD
+
+
