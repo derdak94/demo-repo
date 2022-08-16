@@ -2,6 +2,10 @@
 
 Some Dectription Sniper jp
 
-## Dupa
+## Demo
 
-ale faza XD
+
+## Local Development 
+
+1.Open index.html in your browser 
+
